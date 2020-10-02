@@ -4,6 +4,7 @@
 
 const nameAndAge = function(name, age) {
     // your code here
+    return `${name} is ${age} years old!`;    
 }
 
 
